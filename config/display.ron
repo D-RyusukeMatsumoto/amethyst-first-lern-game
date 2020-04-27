@@ -1,0 +1,4 @@
+(
+  title: "E:/AmethystProjects/amethyst-first-lern-game",
+  dimensions: Some((500, 500)),
+)
